@@ -52,5 +52,3 @@ while i<len(x):
     i=i+1
 print("the sum of list is ", sum)
 
-
-
