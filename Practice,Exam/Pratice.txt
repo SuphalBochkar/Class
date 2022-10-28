@@ -1,1 +1,8 @@
-----------22/10
+----------22/10/22----------
+1.To Find Power
+exponential=pow(a,b)==a**b
+
+2.Boolean in print
+if we write any condition in print it print boolean answer
+print(x>1)                     it print's {Ture (or) False}
+print(a[x] in b and a[y] in b) it print's {Ture (or) False}

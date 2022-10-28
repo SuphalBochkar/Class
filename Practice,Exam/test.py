@@ -1,8 +1,9 @@
-a=(input())
-ex= pow(int(a[0]),int(a[-1]))
-print((ex),(ex%2 ==0))
-
-
-x=23236
-print(x%2==0)
-print(x>1)
+x=int(input("1st:"))
+y=int(input("2nd:"))
+z=int(input("No of:"))
+while(z-1):
+    a=x+y
+    x=y
+    y=a
+    print(a)
+    z=z-1
