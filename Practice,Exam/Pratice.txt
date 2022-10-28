@@ -6,3 +6,9 @@ exponential=pow(a,b)==a**b
 if we write any condition in print it print boolean answer
 print(x>1)                     it print's {Ture (or) False}
 print(a[x] in b and a[y] in b) it print's {Ture (or) False}
+
+3.To apply loop
+take a variable(x) with 0 value
+then apply while loop with condition
+then take x and replace it with x+1
+so  ,x=x+1
