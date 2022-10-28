@@ -9,20 +9,20 @@
     #     numb = numb // 10 
     #     print(rev)   
 # Prime Numbers
-num = int(input("Enter Number:"))
-count = 0
-i = 1
-while 1:    
-    while i <= num:
-        if num % i ==0:
-            count = count +1
-        i = i+1
-    if count==2:
-        print("Its a Prime :) ")
-    else :
-        print ("Its not Prime :(")
-    
+    # num = int(input("Enter Number:"))
+    # count = 0
+    # i = 1
+    # while 1:    
+    #     while i <= num:
+    #         if num % i ==0:
+    #             count = count +1
+    #         i = i+1
+    #     if count==2:
+    #         print("Its a Prime :) ")
+    #     else :
+    #         print ("Its not Prime :(")
     # x=str(input())
     # if x == "exit" or "Exit":
     #     break
+    
 

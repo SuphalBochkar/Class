@@ -1,12 +1,12 @@
-a = input() #string
-ex = pow(int(a[0]),int(a[-1]))
-# print(ex)
-print((ex),(ex % 2 == 0))
-
-a = str(input())
-b = str(input())
-# c = len(b)
-print(a[0] == b[-1])
+# To Find Power From Input
+    # a = input()                    #string
+    # ex = pow(int(a[0]),int(a[-1])) #to find Power
+    # print((ex),(ex % 2 == 0))      #it print's in boolean
+# To find Equal str from 2 inputs
+    # a = str(input())
+    # b = str(input())
+    # c = len(b)
+    # print(a[0] == b[-1],c)
 
 print("Welcome to fibonacci")
 n1 = int(input("enter first: "))
