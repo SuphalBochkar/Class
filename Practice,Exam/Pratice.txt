@@ -12,3 +12,12 @@ take a variable(x) with 0 value
 then apply while loop with condition
 then take x and replace it with x+1
 so  ,x=x+1
+----------27/10/22----------
+4.Diff b/w (/) and (//)
+/ it divides the number
+// it removes 
+5.reversing a number
+take variable(x) as 0
+assign remainder when divided with 10
+take x and x=(X*10)+remainder
+
