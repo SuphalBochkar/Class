@@ -47,4 +47,19 @@
     # c=a+x
     # print(c)
 # Set
+    # a = {"anurag","suphal","sai"}
+    # a.add("virus")
+    # b={1,2,3}
+    # a=a.union(b)
+    # print(a)
 
+# DataTypes: Dictionary
+# ordered , changable, no dublicate
+# works on the concept of key and value
+a={"name":"Suphal","company":"cipherschools","college":"LPU"}
+# print(a)
+print(a["name"])
+a["degree"]=["engineering"]
+print(a.keys())
+if "name" in a:
+    print("its therr")
