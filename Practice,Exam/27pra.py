@@ -23,5 +23,13 @@
     # x=str(input())
     # if x == "exit" or "Exit":
     #     break
-    
-
+# DataTypes: Dictionary
+# ordered , changable, no dublicate
+# works on the concept of key and value
+a={"name":"Suphal","company":"cipherschools","college":"LPU"}
+# print(a)
+print(a["name"])
+a["degree"]=["engineering"]
+print(a.keys())
+if "name" in a:
+    print("its therr")

@@ -63,3 +63,5 @@ a["degree"]=["engineering"]
 print(a.keys())
 if "name" in a:
     print("its therr")
+    
+
