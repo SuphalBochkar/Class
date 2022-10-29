@@ -1,1 +1,2 @@
-t(x),y)
+for j in "Suphal":
+    print(j)

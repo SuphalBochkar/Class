@@ -20,4 +20,14 @@ so  ,x=x+1
 take variable(x) as 0
 assign remainder when divided with 10
 take x and x=(X*10)+remainder
+----------29/10/22----------
+5.To print List and string Contents
+take 
+for (variable) in (list):
+    print(variable)
+for (variable) in ("String"):
+    print(variable) 
+
+
+
 

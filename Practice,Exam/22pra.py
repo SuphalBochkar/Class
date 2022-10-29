@@ -30,12 +30,16 @@
     #     print("hiiiii")
     # print(a[-1] in b and a[-2] in b)
 # Printing List Items
-    # list = [10,11,12,13,14]
+list = [10,11,12,13,14]
     # length = len(list)
     # i=0
     # while i<length:
     #     print(list[i])
     #     i  = i+1
+for i in list:
+        print(i)
+for j in "Suphal":
+    print(j)
 #Adding List Items
     # x = [9,4,3,8,7,2,6,1,5]
     # length=len(x)
