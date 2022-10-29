@@ -34,5 +34,17 @@
     #         print(i,j)
     
 # DataTypes: Tuple(Ordered and Unchangable)
-a = ("anurag","suphal","sai")
-print (a)
+    # a = ("anurag","suphal","sai")
+    # print(a[0],len(a),type(a))
+    # print(a[1:2])
+    # if "anurag" in a:
+    #     print("ys it is")
+    # b=list(a)
+    # b[1]="virus"
+    # a=tuple(b)
+    # print(a)
+    # x=(1,2,3)
+    # c=a+x
+    # print(c)
+# Set
+
