@@ -11,4 +11,11 @@
     #     print("True")
     # else :
     #     print("False")
+# String Checker
+    # x=str(input())
+    # y=str(input())
+    # if x[0]==y[0]:
+    #     print("false")
+    # else :
+    #     print("true")
 
