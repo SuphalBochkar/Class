@@ -18,4 +18,8 @@
     #     print("false")
     # else :
     #     print("true")
+# String Checker 1
+a=str(input())
+b=str(input())
+print(a[-1] in b and a[-2] in b)
 
