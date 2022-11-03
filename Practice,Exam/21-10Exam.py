@@ -6,5 +6,9 @@
     # else :
     #     print("False")
 # Even Or Odd Checker
-
+    # n=int(input())
+    # if (n%2) == 0:
+    #     print("True")
+    # else :
+    #     print("False")
 
