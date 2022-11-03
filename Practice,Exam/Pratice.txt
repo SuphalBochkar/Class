@@ -20,6 +20,10 @@ so  ,x=x+1
 take variable(x) as 0
 assign remainder when divided with 10
 take x and x=(X*10)+remainder
+6.Tavel or tranverse
+use while loop
+reverse concatination in while loop
+
 ----------29/10/22----------
 5.To print List and string Contents
 take 
@@ -27,6 +31,10 @@ for (variable) in (list):
     print(variable)
 for (variable) in ("String"):
     print(variable) 
+a=int(input("a:"))
+b=int(input("b:"))
+c=a+b
+print("a=%d,b=%d,c=%d"%(a,b,c))
 
 
 

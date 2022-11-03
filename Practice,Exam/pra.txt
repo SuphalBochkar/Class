@@ -1,4 +1,0 @@
---------------27/10/22------------
-Tavel or tranverse
-use while loop
-reverse concatination in while loop
