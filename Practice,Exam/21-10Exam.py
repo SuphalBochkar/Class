@@ -19,7 +19,19 @@
     # else :
     #     print("true")
 # String Checker 1
-a=str(input())
-b=str(input())
-print(a[-1] in b and a[-2] in b)
+    # a=str(input())
+    # b=str(input())
+    # print(a[-1] in b and a[-2] in b)
+# Large Number
+x=input()
+a=int(x[0])*int(x[-1])
+print(a)
+print(a%5 == 0)
+
+
+
+
+
+
+
 
