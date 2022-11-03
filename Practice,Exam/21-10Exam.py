@@ -23,11 +23,15 @@
     # b=str(input())
     # print(a[-1] in b and a[-2] in b)
 # Large Number
-x=input()
-a=int(x[0])*int(x[-1])
-print(a)
-print(a%5 == 0)
-
+    # x=input()
+    # a=int(x[0])*int(x[-1])
+    # print(a)
+    # print(a%5 == 0)
+# Surface Area of Cylinder
+r=int(input())
+h=int(input())
+area = (2*3.141*r*h) + 2*3.141*(r**2)
+print("Area : {:.2f}".format(area))
 
 
 
