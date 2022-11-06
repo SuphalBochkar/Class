@@ -10,6 +10,9 @@
     #     if i%2 == 0:
     #         print(s[i])
 # Comma is space
-p = 253
-q="Odd Number"
-print(p,"is a",q)
+    # p = 253
+    # q="Odd Number"
+    # print(p,"is a",q)
+# Text Multipyes
+p="abc "
+print(p*5)
