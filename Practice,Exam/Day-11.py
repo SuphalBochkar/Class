@@ -14,5 +14,11 @@
     # q="Odd Number"
     # print(p,"is a",q)
 # Text Multipyes
-p="abc "
-print(p*5)
+    # p="abc "
+    # print(p*5)
+    
+# Printing First and last indexs
+x=str("programming")
+z=[0,1,2,-3,-2,-1]
+for i in z:
+    print(x[i])
