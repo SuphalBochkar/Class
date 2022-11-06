@@ -9,3 +9,7 @@
     # for i in range (len(s)):
     #     if i%2 == 0:
     #         print(s[i])
+# Comma is space
+p = 253
+q="Odd Number"
+print(p,"is a",q)
