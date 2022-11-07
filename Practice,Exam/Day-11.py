@@ -18,7 +18,14 @@
     # print(p*5)
     
 # Printing First and last indexs
-x=str("programming")
-z=[0,1,2,-3,-2,-1]
-for i in z:
-    print(x[i])
+    # x=str("programming")
+    # z=[0,1,2,-3,-2,-1]
+    # for i in z:
+    #     print(x[i])
+# Complex Number
+    # a=3+4j
+    # b=5+8j
+    # print(a*b)
+    # print(a+b)
+
+
