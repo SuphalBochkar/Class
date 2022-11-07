@@ -1,6 +1,5 @@
 #Rock,Paper,Scissors
 import random
-
 print("Welcome to RPS")
 uc = input("Enter either r or p or s\n")
 cc = ["r","p","s"]
@@ -25,3 +24,5 @@ else :
     while i<20:
         print("!!!!!! Wrong Input!!!!! ")
         i=i+1
+
+
