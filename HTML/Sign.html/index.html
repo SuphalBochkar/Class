@@ -1,7 +1,47 @@
 <!doctype html>
 <html>
     <head>
-        <title>Sign Up</title>
+        <title>Signs Up</title>
+        <style>
+            *{
+                box-sizing: border-box;
+            }
+            input[type="text"], input[type="password"]{
+                width: 100%;
+                font-size: 20px;
+                padding: 12px;
+                margin: 5px 0px 20px 0px;
+                display: inline-block;
+                border: none;
+                background: #f1f2f3;
+            }
+            label{
+                font-size: px;
+            }
+            hr{
+                border: 1px solid black;
+                margin-bottom: 20px;
+            }
+            button{
+                font-size: 18px;
+                font-weight: bold;
+                background-color: rgb(167, 221, 167);
+                color: rgb(255, 255, 255);
+                padding: 14px 20px;
+                margin: 10px 0px;
+                border: none;
+                cursor: pointer;
+                width: 100%;
+                opacity: 0.6;
+            }
+            button:hover{
+                opacity: 1;
+            }
+            .cancel{
+                padding: 14px 20px;
+                background-color: red;
+            }
+        </style>
     </head>
     <body>
         <form>
@@ -20,11 +60,11 @@
                     <input type="checkbox" checked="checked"> Remember Me
                 </label>
                 <label> 
-                    <p>I Accept the T&C Attached <a href="">Tearms And Conditions</a></p>
+                    <p>I Accept the T&C Attached <a href="">Terms And Conditions</a></p>
                 </label>
             </div>
             <div>
-                <button type="button">Cancel</button>
+                <button class="cancel" type="button">Cancel</button>
                 <button type="button">Sign Up</button>
             </div>
         </form>
