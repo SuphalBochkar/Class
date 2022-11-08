@@ -23,8 +23,14 @@
     #     print("My name is "+name3)
     # pr(name1="last",name2="shadow",name3="67")
 # Loop in DEF
-def pr(name):
-    for i in name:
-        print(i)
-name=["last","Shadow","67"]
-pr(name)
+    # def pr(name):
+    #     for i in name:
+    #         print(i)
+    # name=["last","Shadow","67"]
+    # pr(name)
+    
+# Return
+    # def pr(n):
+    #     return n*2
+    # print(pr(7))
+
